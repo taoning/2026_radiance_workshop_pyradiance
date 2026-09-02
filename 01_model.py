@@ -91,6 +91,7 @@ BLIND_DEPTH = 0.05
 # >>> Download a darker one, drop the filename in below, and re-run --
 # >>> 03_pointintime.py and 05_spectral.py both pick it up.
 GLAZING_JSONS = ["igsdb_product_7406.json", "igsdb_product_424.json"]
+GLAZING_JSON_DIR = DATA                     # where those records live on disk
 GLAZING_PREFIX = "igu"
 GLAZING_MAT = f"glaze_mat_{GLAZING_PREFIX}"
 GLAZING_WL = (380, 780, 5)                  # nm: start, end, interval
@@ -269,7 +270,7 @@ materials.append(plastic("m_chartbase", (0.05, 0.05, 0.05)))
 # ---------------------------------------------------------------------------
 step("glazing from measured IGSDB data")
 glaze = pr.genglaze_json(
-    GLAZING_JSONS,
+    [str(GLAZING_JSON_DIR / j) for j in GLAZING_JSONS],
     prefix=GLAZING_PREFIX,
     wavelength_start=GLAZING_WL[0],
     wavelength_end=GLAZING_WL[1],

@@ -19,7 +19,6 @@ pip install pyradiance numpy matplotlib scipy
 ```
 
 That is the entire dependency list. **No Jupyter, no Radiance install.**
-pyradiance ships all 91 Radiance binaries inside the wheel.
 
 > **Install from PyPI wheels, not from source.** A source build needs git
 > submodules and downloads libtiff at build time. If `pip install pyradiance`
@@ -55,8 +54,6 @@ every run.
 
 There is deliberately **no notebook**. Each script is standalone and re-runnable
 from the top, so there is no hidden state and no out-of-order-cell confusion.
-Each has `# %%` cell markers, so if you use VS Code with `ipykernel` installed
-you get an interactive cell experience for free — but nothing requires it.
 
 ### If something breaks
 
@@ -96,10 +93,10 @@ look at the PNG.
 ```
 wsvenv.py        shared paths, quality presets, render helper   (don't edit)
 wsviz.py         all the plotting                               (don't edit)
-data/            EPW weather, sensor grid, grid metadata
-igsdb_product_*.json   measured glazing records, used by 01_model.py
-E Screen 1% Pearl-Grey.xml   measured Klems BSDF of a Mermet solar
-                 screen, used by 06_extra.py
+data/            EPW weather, sensor grid, grid metadata, and:
+                 igsdb_product_*.json  measured glazing records (01_model.py)
+                 E Screen 1% Pearl-Grey.xml  measured Klems BSDF of a
+                 Mermet solar screen (06_extra.py)
 model/           .rad files written by 01_model.py
 views/           .vf view files written by 01_model.py
 checkpoints/     pre-computed fallbacks

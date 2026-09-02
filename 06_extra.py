@@ -19,7 +19,7 @@ leaves in direction o with this much probability" -- and Radiance samples it.
 For the Klems full basis that is a 145 x 145 matrix per component, four
 components per side. It is what the whole three/five-phase method is built on.
 
-`E Screen 1% Pearl-Grey.xml` in this directory is exactly that: a Mermet woven
+`data/E Screen 1% Pearl-Grey.xml` is exactly that: a Mermet woven
 solar screen, measured, Klems full basis, visible and solar, from the LBNL
 Complex Glazing Database. 2 MB of matrix.
 
@@ -65,7 +65,7 @@ from wsvenv import (CKPT, DATA, GRID_PARAMS, HERE, MODEL, NPROC, OUT, SCRATCH,
 # ===========================================================================
 #  PARAMETERS
 # ===========================================================================
-SHADE_SRC = HERE / "E Screen 1% Pearl-Grey.xml"
+SHADE_SRC = DATA / "E Screen 1% Pearl-Grey.xml"
 SHADE_XML = MODEL / "shade_escreen.xml"     # space-free copy; see block 1
 SYS_XML = MODEL / "sys_igu_escreen.xml"     # what we are about to build
 
