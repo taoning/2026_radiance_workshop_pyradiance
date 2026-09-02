@@ -1,0 +1,2727 @@
+{
+    "product_id": 4235,
+    "component_id": "d6b6e173-786e-41b3-876f-5f5bf2268577",
+    "type": "GLAZING",
+    "subtype": "COATED",
+    "token": "cgis-20c2-7",
+    "historical_tokens": [],
+    "name": "ClimaGuard IS-20, Interior Surface LE on 2.7mm Clr",
+    "marketing_name": null,
+    "nfrc_id": 3289,
+    "igdb_id": 5444,
+    "cgdb_id": null,
+    "mdb_time_created": "2011-03-30T13:39:11Z",
+    "igdb_database_version": "18.1",
+    "cgdb_database_version": null,
+    "acceptance": "#",
+    "reference": false,
+    "appearance": "Clear",
+    "hidden": false,
+    "manufacturer_name": "Guardian",
+    "owner_name": "Guardian",
+    "data_file_name": "CGIS-20c2.7.grd",
+    "data_file_type": "IGDB_LEGACY_SUBMISSION_FILE",
+    "data_file_available": false,
+    "short_description": null,
+    "deconstructable": false,
+    "coating_name": "ClimaGuard IS",
+    "coating_id": 1263,
+    "coated_side": "BACK",
+    "igdb_checksum": 541756061,
+    "cgdb_checksum": null,
+    "checksum_date": "2011-03-30T12:17:58Z",
+    "window8_application_type": "COATED",
+    "emissivity_front": 0.8399999737739563,
+    "emissivity_back": 0.19816529750823975,
+    "tir_front": 0.0,
+    "tir_back": 0.0,
+    "product_detail_files": [],
+    "composition": [
+        {
+            "index": 0,
+            "type": "GLAZING",
+            "subtype": "MONOLITHIC",
+            "token": "clear-27",
+            "token_type": "PUBLISHED",
+            "composition_details": {}
+        },
+        {
+            "index": 1,
+            "type": "GLAZING",
+            "subtype": "COATING",
+            "token": "climaguard-is",
+            "token_type": "PUBLISHED",
+            "composition_details": {}
+        }
+    ],
+    "integrated_spectral_averages_summaries": [
+        {
+            "calculation_standard": "NFRC",
+            "source": "IGDB",
+            "source_version": "109",
+            "opticalc_pywincalc_version": null,
+            "spf": {
+                "error": null,
+                "reflectance_back": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "reflectance_front": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_back": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_front": {
+                    "matrix": null,
+                    "direct_direct": 10.462676048278809,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "absorptance_back_direct": null,
+                "absorptance_front_direct": null,
+                "absorptance_back_hemispheric": null,
+                "absorptance_front_hemispheric": null
+            },
+            "tdw": {
+                "error": null,
+                "reflectance_back": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "reflectance_front": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_back": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_front": {
+                    "matrix": null,
+                    "direct_direct": 0.8184517025947571,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "absorptance_back_direct": null,
+                "absorptance_front_direct": null,
+                "absorptance_back_hemispheric": null,
+                "absorptance_front_hemispheric": null
+            },
+            "tkr": {
+                "error": null,
+                "reflectance_back": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "reflectance_front": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_back": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_front": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "absorptance_back_direct": null,
+                "absorptance_front_direct": null,
+                "absorptance_back_hemispheric": null,
+                "absorptance_front_hemispheric": null
+            },
+            "tuv": {
+                "error": null,
+                "reflectance_back": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "reflectance_front": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_back": {
+                    "matrix": null,
+                    "direct_direct": null,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_front": {
+                    "matrix": null,
+                    "direct_direct": 0.7003727555274963,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "absorptance_back_direct": null,
+                "absorptance_front_direct": null,
+                "absorptance_back_hemispheric": null,
+                "absorptance_front_hemispheric": null
+            },
+            "color": {
+                "reflectance_back": {
+                    "direct_direct": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "direct_diffuse": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "diffuse_diffuse": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "direct_hemispherical": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    }
+                },
+                "reflectance_front": {
+                    "direct_direct": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "direct_diffuse": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "diffuse_diffuse": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "direct_hemispherical": {
+                        "lab": {
+                            "a": -0.4060183570843978,
+                            "b": -2.9325259478568455,
+                            "l": 36.59186218674984
+                        },
+                        "rgb": {
+                            "b": 99.29429227678135,
+                            "g": 95.45586429310325,
+                            "r": 91.5917873944308
+                        },
+                        "trichromatic": {
+                            "x": 8.786642074584961,
+                            "y": 9.319265365600586,
+                            "z": 11.003798484802246
+                        }
+                    }
+                },
+                "transmittance_back": {
+                    "direct_direct": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "direct_diffuse": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "diffuse_diffuse": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "direct_hemispherical": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    }
+                },
+                "transmittance_front": {
+                    "direct_direct": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "direct_diffuse": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "diffuse_diffuse": {
+                        "lab": {
+                            "a": null,
+                            "b": null,
+                            "l": null
+                        },
+                        "rgb": {
+                            "b": null,
+                            "g": null,
+                            "r": null
+                        },
+                        "trichromatic": {
+                            "x": null,
+                            "y": null,
+                            "z": null
+                        }
+                    },
+                    "direct_hemispherical": {
+                        "lab": {
+                            "a": -0.7342461119883015,
+                            "b": 0.691247961846142,
+                            "l": 95.04940125252756
+                        },
+                        "rgb": {
+                            "b": 255.0,
+                            "g": 255.0,
+                            "r": 255.0
+                        },
+                        "trichromatic": {
+                            "x": 82.78497314453125,
+                            "y": 87.73536682128906,
+                            "z": 93.14380645751953
+                        }
+                    }
+                }
+            },
+            "solar": {
+                "error": null,
+                "reflectance_back": {
+                    "matrix": null,
+                    "direct_direct": 0.09581998735666275,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "reflectance_front": {
+                    "matrix": null,
+                    "direct_direct": 0.09819945693016052,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_back": {
+                    "matrix": null,
+                    "direct_direct": 0.775522768497467,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_front": {
+                    "matrix": null,
+                    "direct_direct": 0.775522768497467,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "absorptance_back_direct": null,
+                "absorptance_front_direct": null,
+                "absorptance_back_hemispheric": null,
+                "absorptance_front_hemispheric": null
+            },
+            "photopic": {
+                "error": null,
+                "reflectance_back": {
+                    "matrix": null,
+                    "direct_direct": 0.09279628098011017,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "reflectance_front": {
+                    "matrix": null,
+                    "direct_direct": 0.09265051782131195,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_back": {
+                    "matrix": null,
+                    "direct_direct": 0.8776660561561584,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "transmittance_front": {
+                    "matrix": null,
+                    "direct_direct": 0.8776660561561584,
+                    "direct_diffuse": null,
+                    "diffuse_diffuse": null,
+                    "direct_hemispherical": null
+                },
+                "absorptance_back_direct": null,
+                "absorptance_front_direct": null,
+                "absorptance_back_hemispheric": null,
+                "absorptance_front_hemispheric": null
+            },
+            "thermal_ir": {
+                "emissivity_back_hemispheric": null,
+                "emissivity_front_hemispheric": null,
+                "transmittance_back_diffuse_diffuse": null,
+                "transmittance_front_diffuse_diffuse": null
+            }
+        }
+    ],
+    "material": "NOT_APPLICABLE",
+    "material_bulk_properties": {
+        "name": "NOT_APPLICABLE",
+        "version": 1,
+        "conductivity": "0",
+        "youngs_modulus": 0.0,
+        "poissons_ratio": 0.0,
+        "elasticity": 0.0,
+        "moisture_properties": null
+    },
+    "extra_data": {},
+    "physical_properties": {
+        "is_specular": true,
+        "thickness": "2.64159989356994629",
+        "geometric_properties": null,
+        "predefined_emissivity_front": "0.83999997",
+        "predefined_emissivity_back": "0.19816530",
+        "predefined_tir_front": "0",
+        "predefined_tir_back": "0",
+        "permeability_factor": null,
+        "bulk_properties_override": {
+            "conductivity": "1.0003449916839599609375"
+        },
+        "optical_properties": {
+            "optical_data_type": "DISCRETE",
+            "incidence_angular_resolution_type": "DIRECT",
+            "outgoing_angular_resolution_type": "DIRECT",
+            "optical_data": {
+                "angle_blocks": [
+                    {
+                        "incidence_angle": 0,
+                        "num_wavelengths": 236,
+                        "wavelength_data": [
+                            {
+                                "w": "0.300",
+                                "specular": {
+                                    "rb": "0.17159999907016754150390625",
+                                    "rf": "0.0491000004112720489501953125",
+                                    "tb": "0.0000999999974737875163555145263671875",
+                                    "tf": "0.0000999999974737875163555145263671875"
+                                }
+                            },
+                            {
+                                "w": "0.305",
+                                "specular": {
+                                    "rb": "0.1550000011920928955078125",
+                                    "rf": "0.0491000004112720489501953125",
+                                    "tb": "0.001599999959580600261688232421875",
+                                    "tf": "0.001599999959580600261688232421875"
+                                }
+                            },
+                            {
+                                "w": "0.310",
+                                "specular": {
+                                    "rb": "0.1328999996185302734375",
+                                    "rf": "0.049199998378753662109375",
+                                    "tb": "0.011300000362098217010498046875",
+                                    "tf": "0.011300000362098217010498046875"
+                                }
+                            },
+                            {
+                                "w": "0.315",
+                                "specular": {
+                                    "rb": "0.108099997043609619140625",
+                                    "rf": "0.049699999392032623291015625",
+                                    "tb": "0.0531000010669231414794921875",
+                                    "tf": "0.0531000010669231414794921875"
+                                }
+                            },
+                            {
+                                "w": "0.320",
+                                "specular": {
+                                    "rb": "0.0855000019073486328125",
+                                    "rf": "0.050700001418590545654296875",
+                                    "tb": "0.1254999935626983642578125",
+                                    "tf": "0.1254999935626983642578125"
+                                }
+                            },
+                            {
+                                "w": "0.325",
+                                "specular": {
+                                    "rb": "0.06710000336170196533203125",
+                                    "rf": "0.0520999990403652191162109375",
+                                    "tb": "0.22930000722408294677734375",
+                                    "tf": "0.22930000722408294677734375"
+                                }
+                            },
+                            {
+                                "w": "0.330",
+                                "specular": {
+                                    "rb": "0.0555999986827373504638671875",
+                                    "rf": "0.05380000174045562744140625",
+                                    "tb": "0.365999996662139892578125",
+                                    "tf": "0.365999996662139892578125"
+                                }
+                            },
+                            {
+                                "w": "0.335",
+                                "specular": {
+                                    "rb": "0.0507999993860721588134765625",
+                                    "rf": "0.0551999993622303009033203125",
+                                    "tb": "0.49720001220703125",
+                                    "tf": "0.49720001220703125"
+                                }
+                            },
+                            {
+                                "w": "0.340",
+                                "specular": {
+                                    "rb": "0.05099999904632568359375",
+                                    "rf": "0.056800000369548797607421875",
+                                    "tb": "0.6082999706268310546875",
+                                    "tf": "0.6082999706268310546875"
+                                }
+                            },
+                            {
+                                "w": "0.345",
+                                "specular": {
+                                    "rb": "0.0548000000417232513427734375",
+                                    "rf": "0.059399999678134918212890625",
+                                    "tb": "0.694500029087066650390625",
+                                    "tf": "0.694500029087066650390625"
+                                }
+                            },
+                            {
+                                "w": "0.350",
+                                "specular": {
+                                    "rb": "0.060199998319149017333984375",
+                                    "rf": "0.0631999969482421875",
+                                    "tb": "0.756200015544891357421875",
+                                    "tf": "0.756200015544891357421875"
+                                }
+                            },
+                            {
+                                "w": "0.355",
+                                "specular": {
+                                    "rb": "0.06610000133514404296875",
+                                    "rf": "0.06780000030994415283203125",
+                                    "tb": "0.796999990940093994140625",
+                                    "tf": "0.796999990940093994140625"
+                                }
+                            },
+                            {
+                                "w": "0.360",
+                                "specular": {
+                                    "rb": "0.07209999859333038330078125",
+                                    "rf": "0.073600001633167266845703125",
+                                    "tb": "0.8238999843597412109375",
+                                    "tf": "0.8238999843597412109375"
+                                }
+                            },
+                            {
+                                "w": "0.365",
+                                "specular": {
+                                    "rb": "0.077699996531009674072265625",
+                                    "rf": "0.078599996864795684814453125",
+                                    "tb": "0.839299976825714111328125",
+                                    "tf": "0.839299976825714111328125"
+                                }
+                            },
+                            {
+                                "w": "0.370",
+                                "specular": {
+                                    "rb": "0.08259999752044677734375",
+                                    "rf": "0.083400003612041473388671875",
+                                    "tb": "0.845899999141693115234375",
+                                    "tf": "0.845899999141693115234375"
+                                }
+                            },
+                            {
+                                "w": "0.375",
+                                "specular": {
+                                    "rb": "0.086699999868869781494140625",
+                                    "rf": "0.087499998509883880615234375",
+                                    "tb": "0.84140002727508544921875",
+                                    "tf": "0.84140002727508544921875"
+                                }
+                            },
+                            {
+                                "w": "0.380",
+                                "specular": {
+                                    "rb": "0.08990000188350677490234375",
+                                    "rf": "0.090400002896785736083984375",
+                                    "tb": "0.835099995136260986328125",
+                                    "tf": "0.835099995136260986328125"
+                                }
+                            },
+                            {
+                                "w": "0.385",
+                                "specular": {
+                                    "rb": "0.093900002539157867431640625",
+                                    "rf": "0.09409999847412109375",
+                                    "tb": "0.84280002117156982421875",
+                                    "tf": "0.84280002117156982421875"
+                                }
+                            },
+                            {
+                                "w": "0.390",
+                                "specular": {
+                                    "rb": "0.09759999811649322509765625",
+                                    "rf": "0.09769999980926513671875",
+                                    "tb": "0.852299988269805908203125",
+                                    "tf": "0.852299988269805908203125"
+                                }
+                            },
+                            {
+                                "w": "0.395",
+                                "specular": {
+                                    "rb": "0.100199997425079345703125",
+                                    "rf": "0.10029999911785125732421875",
+                                    "tb": "0.858500003814697265625",
+                                    "tf": "0.858500003814697265625"
+                                }
+                            },
+                            {
+                                "w": "0.400",
+                                "specular": {
+                                    "rb": "0.1022000014781951904296875",
+                                    "rf": "0.102499999105930328369140625",
+                                    "tb": "0.861800014972686767578125",
+                                    "tf": "0.861800014972686767578125"
+                                }
+                            },
+                            {
+                                "w": "0.405",
+                                "specular": {
+                                    "rb": "0.103500001132488250732421875",
+                                    "rf": "0.103799998760223388671875",
+                                    "tb": "0.862999975681304931640625",
+                                    "tf": "0.862999975681304931640625"
+                                }
+                            },
+                            {
+                                "w": "0.410",
+                                "specular": {
+                                    "rb": "0.104199998080730438232421875",
+                                    "rf": "0.104299999773502349853515625",
+                                    "tb": "0.861999988555908203125",
+                                    "tf": "0.861999988555908203125"
+                                }
+                            },
+                            {
+                                "w": "0.415",
+                                "specular": {
+                                    "rb": "0.10459999740123748779296875",
+                                    "rf": "0.104500003159046173095703125",
+                                    "tb": "0.861299991607666015625",
+                                    "tf": "0.861299991607666015625"
+                                }
+                            },
+                            {
+                                "w": "0.420",
+                                "specular": {
+                                    "rb": "0.104999996721744537353515625",
+                                    "rf": "0.10480000078678131103515625",
+                                    "tb": "0.861699998378753662109375",
+                                    "tf": "0.861699998378753662109375"
+                                }
+                            },
+                            {
+                                "w": "0.425",
+                                "specular": {
+                                    "rb": "0.10490000247955322265625",
+                                    "rf": "0.1046999990940093994140625",
+                                    "tb": "0.861699998378753662109375",
+                                    "tf": "0.861699998378753662109375"
+                                }
+                            },
+                            {
+                                "w": "0.430",
+                                "specular": {
+                                    "rb": "0.10480000078678131103515625",
+                                    "rf": "0.10459999740123748779296875",
+                                    "tb": "0.862999975681304931640625",
+                                    "tf": "0.862999975681304931640625"
+                                }
+                            },
+                            {
+                                "w": "0.435",
+                                "specular": {
+                                    "rb": "0.104500003159046173095703125",
+                                    "rf": "0.104099996387958526611328125",
+                                    "tb": "0.8629000186920166015625",
+                                    "tf": "0.8629000186920166015625"
+                                }
+                            },
+                            {
+                                "w": "0.440",
+                                "specular": {
+                                    "rb": "0.104299999773502349853515625",
+                                    "rf": "0.103799998760223388671875",
+                                    "tb": "0.863399982452392578125",
+                                    "tf": "0.863399982452392578125"
+                                }
+                            },
+                            {
+                                "w": "0.445",
+                                "specular": {
+                                    "rb": "0.103799998760223388671875",
+                                    "rf": "0.103399999439716339111328125",
+                                    "tb": "0.8643000125885009765625",
+                                    "tf": "0.8643000125885009765625"
+                                }
+                            },
+                            {
+                                "w": "0.450",
+                                "specular": {
+                                    "rb": "0.103500001132488250732421875",
+                                    "rf": "0.10300000011920928955078125",
+                                    "tb": "0.8664000034332275390625",
+                                    "tf": "0.8664000034332275390625"
+                                }
+                            },
+                            {
+                                "w": "0.455",
+                                "specular": {
+                                    "rb": "0.10320000350475311279296875",
+                                    "rf": "0.102600000798702239990234375",
+                                    "tb": "0.868200004100799560546875",
+                                    "tf": "0.868200004100799560546875"
+                                }
+                            },
+                            {
+                                "w": "0.460",
+                                "specular": {
+                                    "rb": "0.10279999673366546630859375",
+                                    "rf": "0.10230000317096710205078125",
+                                    "tb": "0.870400011539459228515625",
+                                    "tf": "0.870400011539459228515625"
+                                }
+                            },
+                            {
+                                "w": "0.465",
+                                "specular": {
+                                    "rb": "0.102399997413158416748046875",
+                                    "rf": "0.10189999639987945556640625",
+                                    "tb": "0.87220001220703125",
+                                    "tf": "0.87220001220703125"
+                                }
+                            },
+                            {
+                                "w": "0.470",
+                                "specular": {
+                                    "rb": "0.101800002157688140869140625",
+                                    "rf": "0.1010999977588653564453125",
+                                    "tb": "0.8729000091552734375",
+                                    "tf": "0.8729000091552734375"
+                                }
+                            },
+                            {
+                                "w": "0.475",
+                                "specular": {
+                                    "rb": "0.1013000011444091796875",
+                                    "rf": "0.100699998438358306884765625",
+                                    "tb": "0.8743000030517578125",
+                                    "tf": "0.8743000030517578125"
+                                }
+                            },
+                            {
+                                "w": "0.480",
+                                "specular": {
+                                    "rb": "0.100800000131130218505859375",
+                                    "rf": "0.100100003182888031005859375",
+                                    "tb": "0.875",
+                                    "tf": "0.875"
+                                }
+                            },
+                            {
+                                "w": "0.485",
+                                "specular": {
+                                    "rb": "0.10029999911785125732421875",
+                                    "rf": "0.09960000216960906982421875",
+                                    "tb": "0.876100003719329833984375",
+                                    "tf": "0.876100003719329833984375"
+                                }
+                            },
+                            {
+                                "w": "0.490",
+                                "specular": {
+                                    "rb": "0.09960000216960906982421875",
+                                    "rf": "0.098999999463558197021484375",
+                                    "tb": "0.87650001049041748046875",
+                                    "tf": "0.87650001049041748046875"
+                                }
+                            },
+                            {
+                                "w": "0.495",
+                                "specular": {
+                                    "rb": "0.099100001156330108642578125",
+                                    "rf": "0.098300002515316009521484375",
+                                    "tb": "0.876800000667572021484375",
+                                    "tf": "0.876800000667572021484375"
+                                }
+                            },
+                            {
+                                "w": "0.500",
+                                "specular": {
+                                    "rb": "0.09849999845027923583984375",
+                                    "rf": "0.09780000150203704833984375",
+                                    "tb": "0.87790000438690185546875",
+                                    "tf": "0.87790000438690185546875"
+                                }
+                            },
+                            {
+                                "w": "0.505",
+                                "specular": {
+                                    "rb": "0.09780000150203704833984375",
+                                    "rf": "0.097199998795986175537109375",
+                                    "tb": "0.8784999847412109375",
+                                    "tf": "0.8784999847412109375"
+                                }
+                            },
+                            {
+                                "w": "0.510",
+                                "specular": {
+                                    "rb": "0.097300000488758087158203125",
+                                    "rf": "0.096500001847743988037109375",
+                                    "tb": "0.878899991512298583984375",
+                                    "tf": "0.878899991512298583984375"
+                                }
+                            },
+                            {
+                                "w": "0.515",
+                                "specular": {
+                                    "rb": "0.0967999994754791259765625",
+                                    "rf": "0.0961000025272369384765625",
+                                    "tb": "0.87999999523162841796875",
+                                    "tf": "0.87999999523162841796875"
+                                }
+                            },
+                            {
+                                "w": "0.520",
+                                "specular": {
+                                    "rb": "0.096199996769428253173828125",
+                                    "rf": "0.095499999821186065673828125",
+                                    "tb": "0.88020002841949462890625",
+                                    "tf": "0.88020002841949462890625"
+                                }
+                            },
+                            {
+                                "w": "0.525",
+                                "specular": {
+                                    "rb": "0.095700003206729888916015625",
+                                    "rf": "0.0949999988079071044921875",
+                                    "tb": "0.88069999217987060546875",
+                                    "tf": "0.88069999217987060546875"
+                                }
+                            },
+                            {
+                                "w": "0.530",
+                                "specular": {
+                                    "rb": "0.095200002193450927734375",
+                                    "rf": "0.094499997794628143310546875",
+                                    "tb": "0.8812999725341796875",
+                                    "tf": "0.8812999725341796875"
+                                }
+                            },
+                            {
+                                "w": "0.535",
+                                "specular": {
+                                    "rb": "0.094599999487400054931640625",
+                                    "rf": "0.09399999678134918212890625",
+                                    "tb": "0.8805999755859375",
+                                    "tf": "0.8805999755859375"
+                                }
+                            },
+                            {
+                                "w": "0.540",
+                                "specular": {
+                                    "rb": "0.09399999678134918212890625",
+                                    "rf": "0.09340000152587890625",
+                                    "tb": "0.88069999217987060546875",
+                                    "tf": "0.88069999217987060546875"
+                                }
+                            },
+                            {
+                                "w": "0.545",
+                                "specular": {
+                                    "rb": "0.093599997460842132568359375",
+                                    "rf": "0.093000002205371856689453125",
+                                    "tb": "0.88139998912811279296875",
+                                    "tf": "0.88139998912811279296875"
+                                }
+                            },
+                            {
+                                "w": "0.550",
+                                "specular": {
+                                    "rb": "0.092900000512599945068359375",
+                                    "rf": "0.09239999949932098388671875",
+                                    "tb": "0.880500018596649169921875",
+                                    "tf": "0.880500018596649169921875"
+                                }
+                            },
+                            {
+                                "w": "0.555",
+                                "specular": {
+                                    "rb": "0.0925000011920928955078125",
+                                    "rf": "0.092000000178813934326171875",
+                                    "tb": "0.880500018596649169921875",
+                                    "tf": "0.880500018596649169921875"
+                                }
+                            },
+                            {
+                                "w": "0.560",
+                                "specular": {
+                                    "rb": "0.092100001871585845947265625",
+                                    "rf": "0.091799996793270111083984375",
+                                    "tb": "0.880500018596649169921875",
+                                    "tf": "0.880500018596649169921875"
+                                }
+                            },
+                            {
+                                "w": "0.565",
+                                "specular": {
+                                    "rb": "0.09149999916553497314453125",
+                                    "rf": "0.091300003230571746826171875",
+                                    "tb": "0.8798999786376953125",
+                                    "tf": "0.8798999786376953125"
+                                }
+                            },
+                            {
+                                "w": "0.570",
+                                "specular": {
+                                    "rb": "0.091099999845027923583984375",
+                                    "rf": "0.090999998152256011962890625",
+                                    "tb": "0.879599988460540771484375",
+                                    "tf": "0.879599988460540771484375"
+                                }
+                            },
+                            {
+                                "w": "0.575",
+                                "specular": {
+                                    "rb": "0.09059999883174896240234375",
+                                    "rf": "0.09059999883174896240234375",
+                                    "tb": "0.879199981689453125",
+                                    "tf": "0.879199981689453125"
+                                }
+                            },
+                            {
+                                "w": "0.580",
+                                "specular": {
+                                    "rb": "0.090199999511241912841796875",
+                                    "rf": "0.090300001204013824462890625",
+                                    "tb": "0.878400027751922607421875",
+                                    "tf": "0.878400027751922607421875"
+                                }
+                            },
+                            {
+                                "w": "0.585",
+                                "specular": {
+                                    "rb": "0.08990000188350677490234375",
+                                    "rf": "0.0900000035762786865234375",
+                                    "tb": "0.877499997615814208984375",
+                                    "tf": "0.877499997615814208984375"
+                                }
+                            },
+                            {
+                                "w": "0.590",
+                                "specular": {
+                                    "rb": "0.089400000870227813720703125",
+                                    "rf": "0.08969999849796295166015625",
+                                    "tb": "0.8770999908447265625",
+                                    "tf": "0.8770999908447265625"
+                                }
+                            },
+                            {
+                                "w": "0.595",
+                                "specular": {
+                                    "rb": "0.089199997484683990478515625",
+                                    "rf": "0.0895999968051910400390625",
+                                    "tb": "0.876100003719329833984375",
+                                    "tf": "0.876100003719329833984375"
+                                }
+                            },
+                            {
+                                "w": "0.600",
+                                "specular": {
+                                    "rb": "0.08879999816417694091796875",
+                                    "rf": "0.089299999177455902099609375",
+                                    "tb": "0.875199973583221435546875",
+                                    "tf": "0.875199973583221435546875"
+                                }
+                            },
+                            {
+                                "w": "0.605",
+                                "specular": {
+                                    "rb": "0.088500000536441802978515625",
+                                    "rf": "0.08910000324249267578125",
+                                    "tb": "0.8743000030517578125",
+                                    "tf": "0.8743000030517578125"
+                                }
+                            },
+                            {
+                                "w": "0.610",
+                                "specular": {
+                                    "rb": "0.0882000029087066650390625",
+                                    "rf": "0.08900000154972076416015625",
+                                    "tb": "0.873199999332427978515625",
+                                    "tf": "0.873199999332427978515625"
+                                }
+                            },
+                            {
+                                "w": "0.615",
+                                "specular": {
+                                    "rb": "0.087800003588199615478515625",
+                                    "rf": "0.08879999816417694091796875",
+                                    "tb": "0.871100008487701416015625",
+                                    "tf": "0.871100008487701416015625"
+                                }
+                            },
+                            {
+                                "w": "0.620",
+                                "specular": {
+                                    "rb": "0.087800003588199615478515625",
+                                    "rf": "0.08879999816417694091796875",
+                                    "tb": "0.870199978351593017578125",
+                                    "tf": "0.870199978351593017578125"
+                                }
+                            },
+                            {
+                                "w": "0.625",
+                                "specular": {
+                                    "rb": "0.087600000202655792236328125",
+                                    "rf": "0.088699996471405029296875",
+                                    "tb": "0.869000017642974853515625",
+                                    "tf": "0.869000017642974853515625"
+                                }
+                            },
+                            {
+                                "w": "0.630",
+                                "specular": {
+                                    "rb": "0.08720000088214874267578125",
+                                    "rf": "0.088500000536441802978515625",
+                                    "tb": "0.86699998378753662109375",
+                                    "tf": "0.86699998378753662109375"
+                                }
+                            },
+                            {
+                                "w": "0.635",
+                                "specular": {
+                                    "rb": "0.08699999749660491943359375",
+                                    "rf": "0.088600002229213714599609375",
+                                    "tb": "0.866100013256072998046875",
+                                    "tf": "0.866100013256072998046875"
+                                }
+                            },
+                            {
+                                "w": "0.640",
+                                "specular": {
+                                    "rb": "0.086800001561641693115234375",
+                                    "rf": "0.088600002229213714599609375",
+                                    "tb": "0.864099979400634765625",
+                                    "tf": "0.864099979400634765625"
+                                }
+                            },
+                            {
+                                "w": "0.645",
+                                "specular": {
+                                    "rb": "0.086699999868869781494140625",
+                                    "rf": "0.088500000536441802978515625",
+                                    "tb": "0.862399995326995849609375",
+                                    "tf": "0.862399995326995849609375"
+                                }
+                            },
+                            {
+                                "w": "0.650",
+                                "specular": {
+                                    "rb": "0.086499996483325958251953125",
+                                    "rf": "0.088500000536441802978515625",
+                                    "tb": "0.86140000820159912109375",
+                                    "tf": "0.86140000820159912109375"
+                                }
+                            },
+                            {
+                                "w": "0.655",
+                                "specular": {
+                                    "rb": "0.0864000022411346435546875",
+                                    "rf": "0.088500000536441802978515625",
+                                    "tb": "0.859399974346160888671875",
+                                    "tf": "0.859399974346160888671875"
+                                }
+                            },
+                            {
+                                "w": "0.660",
+                                "specular": {
+                                    "rb": "0.0864000022411346435546875",
+                                    "rf": "0.088600002229213714599609375",
+                                    "tb": "0.85769999027252197265625",
+                                    "tf": "0.85769999027252197265625"
+                                }
+                            },
+                            {
+                                "w": "0.665",
+                                "specular": {
+                                    "rb": "0.08609999716281890869140625",
+                                    "rf": "0.088699996471405029296875",
+                                    "tb": "0.85559999942779541015625",
+                                    "tf": "0.85559999942779541015625"
+                                }
+                            },
+                            {
+                                "w": "0.670",
+                                "specular": {
+                                    "rb": "0.08609999716281890869140625",
+                                    "rf": "0.088600002229213714599609375",
+                                    "tb": "0.85350000858306884765625",
+                                    "tf": "0.85350000858306884765625"
+                                }
+                            },
+                            {
+                                "w": "0.675",
+                                "specular": {
+                                    "rb": "0.085799999535083770751953125",
+                                    "rf": "0.08879999816417694091796875",
+                                    "tb": "0.851700007915496826171875",
+                                    "tf": "0.851700007915496826171875"
+                                }
+                            },
+                            {
+                                "w": "0.680",
+                                "specular": {
+                                    "rb": "0.085699997842311859130859375",
+                                    "rf": "0.08879999816417694091796875",
+                                    "tb": "0.84930002689361572265625",
+                                    "tf": "0.84930002689361572265625"
+                                }
+                            },
+                            {
+                                "w": "0.685",
+                                "specular": {
+                                    "rb": "0.085699997842311859130859375",
+                                    "rf": "0.08900000154972076416015625",
+                                    "tb": "0.847999989986419677734375",
+                                    "tf": "0.847999989986419677734375"
+                                }
+                            },
+                            {
+                                "w": "0.690",
+                                "specular": {
+                                    "rb": "0.0855000019073486328125",
+                                    "rf": "0.08900000154972076416015625",
+                                    "tb": "0.845200002193450927734375",
+                                    "tf": "0.845200002193450927734375"
+                                }
+                            },
+                            {
+                                "w": "0.695",
+                                "specular": {
+                                    "rb": "0.08519999682903289794921875",
+                                    "rf": "0.0888999998569488525390625",
+                                    "tb": "0.842899978160858154296875",
+                                    "tf": "0.842899978160858154296875"
+                                }
+                            },
+                            {
+                                "w": "0.700",
+                                "specular": {
+                                    "rb": "0.085100002586841583251953125",
+                                    "rf": "0.08900000154972076416015625",
+                                    "tb": "0.841499984264373779296875",
+                                    "tf": "0.841499984264373779296875"
+                                }
+                            },
+                            {
+                                "w": "0.710",
+                                "specular": {
+                                    "rb": "0.0846000015735626220703125",
+                                    "rf": "0.08910000324249267578125",
+                                    "tb": "0.836700022220611572265625",
+                                    "tf": "0.836700022220611572265625"
+                                }
+                            },
+                            {
+                                "w": "0.720",
+                                "specular": {
+                                    "rb": "0.084399998188018798828125",
+                                    "rf": "0.08910000324249267578125",
+                                    "tb": "0.832799971103668212890625",
+                                    "tf": "0.832799971103668212890625"
+                                }
+                            },
+                            {
+                                "w": "0.730",
+                                "specular": {
+                                    "rb": "0.08380000293254852294921875",
+                                    "rf": "0.0888999998569488525390625",
+                                    "tb": "0.828499972820281982421875",
+                                    "tf": "0.828499972820281982421875"
+                                }
+                            },
+                            {
+                                "w": "0.740",
+                                "specular": {
+                                    "rb": "0.083400003612041473388671875",
+                                    "rf": "0.08900000154972076416015625",
+                                    "tb": "0.824500024318695068359375",
+                                    "tf": "0.824500024318695068359375"
+                                }
+                            },
+                            {
+                                "w": "0.750",
+                                "specular": {
+                                    "rb": "0.08269999921321868896484375",
+                                    "rf": "0.08879999816417694091796875",
+                                    "tb": "0.819999992847442626953125",
+                                    "tf": "0.819999992847442626953125"
+                                }
+                            },
+                            {
+                                "w": "0.760",
+                                "specular": {
+                                    "rb": "0.08200000226497650146484375",
+                                    "rf": "0.088699996471405029296875",
+                                    "tb": "0.815900027751922607421875",
+                                    "tf": "0.815900027751922607421875"
+                                }
+                            },
+                            {
+                                "w": "0.770",
+                                "specular": {
+                                    "rb": "0.081299997866153717041015625",
+                                    "rf": "0.088500000536441802978515625",
+                                    "tb": "0.812699973583221435546875",
+                                    "tf": "0.812699973583221435546875"
+                                }
+                            },
+                            {
+                                "w": "0.780",
+                                "specular": {
+                                    "rb": "0.080399997532367706298828125",
+                                    "rf": "0.08789999783039093017578125",
+                                    "tb": "0.808300018310546875",
+                                    "tf": "0.808300018310546875"
+                                }
+                            },
+                            {
+                                "w": "0.790",
+                                "specular": {
+                                    "rb": "0.079599998891353607177734375",
+                                    "rf": "0.087700001895427703857421875",
+                                    "tb": "0.8046000003814697265625",
+                                    "tf": "0.8046000003814697265625"
+                                }
+                            },
+                            {
+                                "w": "0.800",
+                                "specular": {
+                                    "rb": "0.07840000092983245849609375",
+                                    "rf": "0.08699999749660491943359375",
+                                    "tb": "0.8018000125885009765625",
+                                    "tf": "0.8018000125885009765625"
+                                }
+                            },
+                            {
+                                "w": "0.810",
+                                "specular": {
+                                    "rb": "0.077200002968311309814453125",
+                                    "rf": "0.0864000022411346435546875",
+                                    "tb": "0.797599971294403076171875",
+                                    "tf": "0.797599971294403076171875"
+                                }
+                            },
+                            {
+                                "w": "0.820",
+                                "specular": {
+                                    "rb": "0.07590000331401824951171875",
+                                    "rf": "0.085900001227855682373046875",
+                                    "tb": "0.79470002651214599609375",
+                                    "tf": "0.79470002651214599609375"
+                                }
+                            },
+                            {
+                                "w": "0.830",
+                                "specular": {
+                                    "rb": "0.07479999959468841552734375",
+                                    "rf": "0.08519999682903289794921875",
+                                    "tb": "0.791899979114532470703125",
+                                    "tf": "0.791899979114532470703125"
+                                }
+                            },
+                            {
+                                "w": "0.840",
+                                "specular": {
+                                    "rb": "0.07299999892711639404296875",
+                                    "rf": "0.084399998188018798828125",
+                                    "tb": "0.789200007915496826171875",
+                                    "tf": "0.789200007915496826171875"
+                                }
+                            },
+                            {
+                                "w": "0.850",
+                                "specular": {
+                                    "rb": "0.071599997580051422119140625",
+                                    "rf": "0.08359999954700469970703125",
+                                    "tb": "0.78649997711181640625",
+                                    "tf": "0.78649997711181640625"
+                                }
+                            },
+                            {
+                                "w": "0.860",
+                                "specular": {
+                                    "rb": "0.069799996912479400634765625",
+                                    "rf": "0.082400001585483551025390625",
+                                    "tb": "0.78380000591278076171875",
+                                    "tf": "0.78380000591278076171875"
+                                }
+                            },
+                            {
+                                "w": "0.870",
+                                "specular": {
+                                    "rb": "0.067900002002716064453125",
+                                    "rf": "0.081299997866153717041015625",
+                                    "tb": "0.781099975109100341796875",
+                                    "tf": "0.781099975109100341796875"
+                                }
+                            },
+                            {
+                                "w": "0.880",
+                                "specular": {
+                                    "rb": "0.06610000133514404296875",
+                                    "rf": "0.080099999904632568359375",
+                                    "tb": "0.77890002727508544921875",
+                                    "tf": "0.77890002727508544921875"
+                                }
+                            },
+                            {
+                                "w": "0.890",
+                                "specular": {
+                                    "rb": "0.06419999897480010986328125",
+                                    "rf": "0.078900001943111419677734375",
+                                    "tb": "0.77600002288818359375",
+                                    "tf": "0.77600002288818359375"
+                                }
+                            },
+                            {
+                                "w": "0.900",
+                                "specular": {
+                                    "rb": "0.0625",
+                                    "rf": "0.077899999916553497314453125",
+                                    "tb": "0.7750999927520751953125",
+                                    "tf": "0.7750999927520751953125"
+                                }
+                            },
+                            {
+                                "w": "0.910",
+                                "specular": {
+                                    "rb": "0.060699999332427978515625",
+                                    "rf": "0.07680000364780426025390625",
+                                    "tb": "0.77289998531341552734375",
+                                    "tf": "0.77289998531341552734375"
+                                }
+                            },
+                            {
+                                "w": "0.920",
+                                "specular": {
+                                    "rb": "0.05889999866485595703125",
+                                    "rf": "0.07569999992847442626953125",
+                                    "tb": "0.77170002460479736328125",
+                                    "tf": "0.77170002460479736328125"
+                                }
+                            },
+                            {
+                                "w": "0.930",
+                                "specular": {
+                                    "rb": "0.0570000000298023223876953125",
+                                    "rf": "0.074500001966953277587890625",
+                                    "tb": "0.770399987697601318359375",
+                                    "tf": "0.770399987697601318359375"
+                                }
+                            },
+                            {
+                                "w": "0.940",
+                                "specular": {
+                                    "rb": "0.0551999993622303009033203125",
+                                    "rf": "0.073399998247623443603515625",
+                                    "tb": "0.7681000232696533203125",
+                                    "tf": "0.7681000232696533203125"
+                                }
+                            },
+                            {
+                                "w": "0.950",
+                                "specular": {
+                                    "rb": "0.0533999986946582794189453125",
+                                    "rf": "0.07230000197887420654296875",
+                                    "tb": "0.76639997959136962890625",
+                                    "tf": "0.76639997959136962890625"
+                                }
+                            },
+                            {
+                                "w": "0.960",
+                                "specular": {
+                                    "rb": "0.051500000059604644775390625",
+                                    "rf": "0.0710999965667724609375",
+                                    "tb": "0.764699995517730712890625",
+                                    "tf": "0.764699995517730712890625"
+                                }
+                            },
+                            {
+                                "w": "0.970",
+                                "specular": {
+                                    "rb": "0.049800001084804534912109375",
+                                    "rf": "0.070100001990795135498046875",
+                                    "tb": "0.764900028705596923828125",
+                                    "tf": "0.764900028705596923828125"
+                                }
+                            },
+                            {
+                                "w": "0.980",
+                                "specular": {
+                                    "rb": "0.048000000417232513427734375",
+                                    "rf": "0.068999998271465301513671875",
+                                    "tb": "0.762300014495849609375",
+                                    "tf": "0.762300014495849609375"
+                                }
+                            },
+                            {
+                                "w": "0.990",
+                                "specular": {
+                                    "rb": "0.0450999997556209564208984375",
+                                    "rf": "0.0676999986171722412109375",
+                                    "tb": "0.761099994182586669921875",
+                                    "tf": "0.761099994182586669921875"
+                                }
+                            },
+                            {
+                                "w": "1.000",
+                                "specular": {
+                                    "rb": "0.04500000178813934326171875",
+                                    "rf": "0.0670000016689300537109375",
+                                    "tb": "0.76080000400543212890625",
+                                    "tf": "0.76080000400543212890625"
+                                }
+                            },
+                            {
+                                "w": "1.020",
+                                "specular": {
+                                    "rb": "0.0397999994456768035888671875",
+                                    "rf": "0.064300000667572021484375",
+                                    "tb": "0.758800029754638671875",
+                                    "tf": "0.758800029754638671875"
+                                }
+                            },
+                            {
+                                "w": "1.040",
+                                "specular": {
+                                    "rb": "0.03519999980926513671875",
+                                    "rf": "0.0619000010192394256591796875",
+                                    "tb": "0.755999982357025146484375",
+                                    "tf": "0.755999982357025146484375"
+                                }
+                            },
+                            {
+                                "w": "1.060",
+                                "specular": {
+                                    "rb": "0.0331999994814395904541015625",
+                                    "rf": "0.059500001370906829833984375",
+                                    "tb": "0.754100024700164794921875",
+                                    "tf": "0.754100024700164794921875"
+                                }
+                            },
+                            {
+                                "w": "1.080",
+                                "specular": {
+                                    "rb": "0.03050000034272670745849609375",
+                                    "rf": "0.0573000013828277587890625",
+                                    "tb": "0.75129997730255126953125",
+                                    "tf": "0.75129997730255126953125"
+                                }
+                            },
+                            {
+                                "w": "1.100",
+                                "specular": {
+                                    "rb": "0.02940000034868717193603515625",
+                                    "rf": "0.057599999010562896728515625",
+                                    "tb": "0.74849998950958251953125",
+                                    "tf": "0.74849998950958251953125"
+                                }
+                            },
+                            {
+                                "w": "1.120",
+                                "specular": {
+                                    "rb": "0.026799999177455902099609375",
+                                    "rf": "0.0555999986827373504638671875",
+                                    "tb": "0.746100008487701416015625",
+                                    "tf": "0.746100008487701416015625"
+                                }
+                            },
+                            {
+                                "w": "1.140",
+                                "specular": {
+                                    "rb": "0.0262000001966953277587890625",
+                                    "rf": "0.0542999990284442901611328125",
+                                    "tb": "0.741699993610382080078125",
+                                    "tf": "0.741699993610382080078125"
+                                }
+                            },
+                            {
+                                "w": "1.160",
+                                "specular": {
+                                    "rb": "0.02539999969303607940673828125",
+                                    "rf": "0.05359999835491180419921875",
+                                    "tb": "0.737600028514862060546875",
+                                    "tf": "0.737600028514862060546875"
+                                }
+                            },
+                            {
+                                "w": "1.180",
+                                "specular": {
+                                    "rb": "0.0262000001966953277587890625",
+                                    "rf": "0.0533999986946582794189453125",
+                                    "tb": "0.7332999706268310546875",
+                                    "tf": "0.7332999706268310546875"
+                                }
+                            },
+                            {
+                                "w": "1.200",
+                                "specular": {
+                                    "rb": "0.02730000019073486328125",
+                                    "rf": "0.0524999983608722686767578125",
+                                    "tb": "0.727500021457672119140625",
+                                    "tf": "0.727500021457672119140625"
+                                }
+                            },
+                            {
+                                "w": "1.220",
+                                "specular": {
+                                    "rb": "0.02649999968707561492919921875",
+                                    "rf": "0.052400000393390655517578125",
+                                    "tb": "0.721800029277801513671875",
+                                    "tf": "0.721800029277801513671875"
+                                }
+                            },
+                            {
+                                "w": "1.240",
+                                "specular": {
+                                    "rb": "0.02989999949932098388671875",
+                                    "rf": "0.0540000014007091522216796875",
+                                    "tb": "0.713800013065338134765625",
+                                    "tf": "0.713800013065338134765625"
+                                }
+                            },
+                            {
+                                "w": "1.260",
+                                "specular": {
+                                    "rb": "0.0309999994933605194091796875",
+                                    "rf": "0.0549000017344951629638671875",
+                                    "tb": "0.70759999752044677734375",
+                                    "tf": "0.70759999752044677734375"
+                                }
+                            },
+                            {
+                                "w": "1.280",
+                                "specular": {
+                                    "rb": "0.0344999991357326507568359375",
+                                    "rf": "0.0579000003635883331298828125",
+                                    "tb": "0.70130002498626708984375",
+                                    "tf": "0.70130002498626708984375"
+                                }
+                            },
+                            {
+                                "w": "1.300",
+                                "specular": {
+                                    "rb": "0.0379000008106231689453125",
+                                    "rf": "0.0601000003516674041748046875",
+                                    "tb": "0.695200026035308837890625",
+                                    "tf": "0.695200026035308837890625"
+                                }
+                            },
+                            {
+                                "w": "1.320",
+                                "specular": {
+                                    "rb": "0.04410000145435333251953125",
+                                    "rf": "0.062799997627735137939453125",
+                                    "tb": "0.6912000179290771484375",
+                                    "tf": "0.6912000179290771484375"
+                                }
+                            },
+                            {
+                                "w": "1.340",
+                                "specular": {
+                                    "rb": "0.0500000007450580596923828125",
+                                    "rf": "0.066600002348423004150390625",
+                                    "tb": "0.68690001964569091796875",
+                                    "tf": "0.68690001964569091796875"
+                                }
+                            },
+                            {
+                                "w": "1.360",
+                                "specular": {
+                                    "rb": "0.0575000010430812835693359375",
+                                    "rf": "0.07050000131130218505859375",
+                                    "tb": "0.6816999912261962890625",
+                                    "tf": "0.6816999912261962890625"
+                                }
+                            },
+                            {
+                                "w": "1.380",
+                                "specular": {
+                                    "rb": "0.0623000003397464752197265625",
+                                    "rf": "0.074500001966953277587890625",
+                                    "tb": "0.675700008869171142578125",
+                                    "tf": "0.675700008869171142578125"
+                                }
+                            },
+                            {
+                                "w": "1.400",
+                                "specular": {
+                                    "rb": "0.070799998939037322998046875",
+                                    "rf": "0.079800002276897430419921875",
+                                    "tb": "0.667900025844573974609375",
+                                    "tf": "0.667900025844573974609375"
+                                }
+                            },
+                            {
+                                "w": "1.420",
+                                "specular": {
+                                    "rb": "0.0767000019550323486328125",
+                                    "rf": "0.083099998533725738525390625",
+                                    "tb": "0.661199986934661865234375",
+                                    "tf": "0.661199986934661865234375"
+                                }
+                            },
+                            {
+                                "w": "1.440",
+                                "specular": {
+                                    "rb": "0.084200002253055572509765625",
+                                    "rf": "0.087999999523162841796875",
+                                    "tb": "0.654799997806549072265625",
+                                    "tf": "0.654799997806549072265625"
+                                }
+                            },
+                            {
+                                "w": "1.460",
+                                "specular": {
+                                    "rb": "0.092699997127056121826171875",
+                                    "rf": "0.093599997460842132568359375",
+                                    "tb": "0.646799981594085693359375",
+                                    "tf": "0.646799981594085693359375"
+                                }
+                            },
+                            {
+                                "w": "1.480",
+                                "specular": {
+                                    "rb": "0.101000003516674041748046875",
+                                    "rf": "0.10050000250339508056640625",
+                                    "tb": "0.640600025653839111328125",
+                                    "tf": "0.640600025653839111328125"
+                                }
+                            },
+                            {
+                                "w": "1.500",
+                                "specular": {
+                                    "rb": "0.1089999973773956298828125",
+                                    "rf": "0.105200000107288360595703125",
+                                    "tb": "0.631900012493133544921875",
+                                    "tf": "0.631900012493133544921875"
+                                }
+                            },
+                            {
+                                "w": "1.520",
+                                "specular": {
+                                    "rb": "0.11810000240802764892578125",
+                                    "rf": "0.11280000209808349609375",
+                                    "tb": "0.62300002574920654296875",
+                                    "tf": "0.62300002574920654296875"
+                                }
+                            },
+                            {
+                                "w": "1.540",
+                                "specular": {
+                                    "rb": "0.12720000743865966796875",
+                                    "rf": "0.11720000207424163818359375",
+                                    "tb": "0.614600002765655517578125",
+                                    "tf": "0.614600002765655517578125"
+                                }
+                            },
+                            {
+                                "w": "1.560",
+                                "specular": {
+                                    "rb": "0.13549999892711639404296875",
+                                    "rf": "0.1252000033855438232421875",
+                                    "tb": "0.60629999637603759765625",
+                                    "tf": "0.60629999637603759765625"
+                                }
+                            },
+                            {
+                                "w": "1.580",
+                                "specular": {
+                                    "rb": "0.14569999277591705322265625",
+                                    "rf": "0.1322000026702880859375",
+                                    "tb": "0.597199976444244384765625",
+                                    "tf": "0.597199976444244384765625"
+                                }
+                            },
+                            {
+                                "w": "1.600",
+                                "specular": {
+                                    "rb": "0.154799997806549072265625",
+                                    "rf": "0.138300001621246337890625",
+                                    "tb": "0.58780002593994140625",
+                                    "tf": "0.58780002593994140625"
+                                }
+                            },
+                            {
+                                "w": "1.620",
+                                "specular": {
+                                    "rb": "0.16439999639987945556640625",
+                                    "rf": "0.14630000293254852294921875",
+                                    "tb": "0.57840001583099365234375",
+                                    "tf": "0.57840001583099365234375"
+                                }
+                            },
+                            {
+                                "w": "1.640",
+                                "specular": {
+                                    "rb": "0.174199998378753662109375",
+                                    "rf": "0.15399999916553497314453125",
+                                    "tb": "0.568499982357025146484375",
+                                    "tf": "0.568499982357025146484375"
+                                }
+                            },
+                            {
+                                "w": "1.660",
+                                "specular": {
+                                    "rb": "0.18289999663829803466796875",
+                                    "rf": "0.1592999994754791259765625",
+                                    "tb": "0.558499991893768310546875",
+                                    "tf": "0.558499991893768310546875"
+                                }
+                            },
+                            {
+                                "w": "1.680",
+                                "specular": {
+                                    "rb": "0.19179999828338623046875",
+                                    "rf": "0.16660000383853912353515625",
+                                    "tb": "0.548500001430511474609375",
+                                    "tf": "0.548500001430511474609375"
+                                }
+                            },
+                            {
+                                "w": "1.700",
+                                "specular": {
+                                    "rb": "0.20229999721050262451171875",
+                                    "rf": "0.17339999973773956298828125",
+                                    "tb": "0.538399994373321533203125",
+                                    "tf": "0.538399994373321533203125"
+                                }
+                            },
+                            {
+                                "w": "1.720",
+                                "specular": {
+                                    "rb": "0.21109999716281890869140625",
+                                    "rf": "0.1802999973297119140625",
+                                    "tb": "0.5285999774932861328125",
+                                    "tf": "0.5285999774932861328125"
+                                }
+                            },
+                            {
+                                "w": "1.740",
+                                "specular": {
+                                    "rb": "0.221599996089935302734375",
+                                    "rf": "0.18850000202655792236328125",
+                                    "tb": "0.519599974155426025390625",
+                                    "tf": "0.519599974155426025390625"
+                                }
+                            },
+                            {
+                                "w": "1.760",
+                                "specular": {
+                                    "rb": "0.232400000095367431640625",
+                                    "rf": "0.1947000026702880859375",
+                                    "tb": "0.509000003337860107421875",
+                                    "tf": "0.509000003337860107421875"
+                                }
+                            },
+                            {
+                                "w": "1.780",
+                                "specular": {
+                                    "rb": "0.24269999563694000244140625",
+                                    "rf": "0.2028000056743621826171875",
+                                    "tb": "0.50010001659393310546875",
+                                    "tf": "0.50010001659393310546875"
+                                }
+                            },
+                            {
+                                "w": "1.800",
+                                "specular": {
+                                    "rb": "0.250999987125396728515625",
+                                    "rf": "0.2084999978542327880859375",
+                                    "tb": "0.489499986171722412109375",
+                                    "tf": "0.489499986171722412109375"
+                                }
+                            },
+                            {
+                                "w": "1.850",
+                                "specular": {
+                                    "rb": "0.276199996471405029296875",
+                                    "rf": "0.22660000622272491455078125",
+                                    "tb": "0.466600000858306884765625",
+                                    "tf": "0.466600000858306884765625"
+                                }
+                            },
+                            {
+                                "w": "1.900",
+                                "specular": {
+                                    "rb": "0.2985999882221221923828125",
+                                    "rf": "0.24220000207424163818359375",
+                                    "tb": "0.443599998950958251953125",
+                                    "tf": "0.443599998950958251953125"
+                                }
+                            },
+                            {
+                                "w": "1.950",
+                                "specular": {
+                                    "rb": "0.3217999935150146484375",
+                                    "rf": "0.2590999901294708251953125",
+                                    "tb": "0.422399997711181640625",
+                                    "tf": "0.422399997711181640625"
+                                }
+                            },
+                            {
+                                "w": "2.000",
+                                "specular": {
+                                    "rb": "0.3438999950885772705078125",
+                                    "rf": "0.2759999930858612060546875",
+                                    "tb": "0.401899993419647216796875",
+                                    "tf": "0.401899993419647216796875"
+                                }
+                            },
+                            {
+                                "w": "2.050",
+                                "specular": {
+                                    "rb": "0.3643999993801116943359375",
+                                    "rf": "0.2915000021457672119140625",
+                                    "tb": "0.383199989795684814453125",
+                                    "tf": "0.383199989795684814453125"
+                                }
+                            },
+                            {
+                                "w": "2.100",
+                                "specular": {
+                                    "rb": "0.383199989795684814453125",
+                                    "rf": "0.3041000068187713623046875",
+                                    "tb": "0.36419999599456787109375",
+                                    "tf": "0.36419999599456787109375"
+                                }
+                            },
+                            {
+                                "w": "2.150",
+                                "specular": {
+                                    "rb": "0.40450000762939453125",
+                                    "rf": "0.3190999925136566162109375",
+                                    "tb": "0.3465000092983245849609375",
+                                    "tf": "0.3465000092983245849609375"
+                                }
+                            },
+                            {
+                                "w": "2.200",
+                                "specular": {
+                                    "rb": "0.422100007534027099609375",
+                                    "rf": "0.325500011444091796875",
+                                    "tb": "0.324800014495849609375",
+                                    "tf": "0.324800014495849609375"
+                                }
+                            },
+                            {
+                                "w": "2.250",
+                                "specular": {
+                                    "rb": "0.4393999874591827392578125",
+                                    "rf": "0.3377999961376190185546875",
+                                    "tb": "0.310699999332427978515625",
+                                    "tf": "0.310699999332427978515625"
+                                }
+                            },
+                            {
+                                "w": "2.300",
+                                "specular": {
+                                    "rb": "0.4550000131130218505859375",
+                                    "rf": "0.3533999919891357421875",
+                                    "tb": "0.297699987888336181640625",
+                                    "tf": "0.297699987888336181640625"
+                                }
+                            },
+                            {
+                                "w": "2.350",
+                                "specular": {
+                                    "rb": "0.471700012683868408203125",
+                                    "rf": "0.366699993610382080078125",
+                                    "tb": "0.2854000031948089599609375",
+                                    "tf": "0.2854000031948089599609375"
+                                }
+                            },
+                            {
+                                "w": "2.400",
+                                "specular": {
+                                    "rb": "0.4873000085353851318359375",
+                                    "rf": "0.3765999972820281982421875",
+                                    "tb": "0.2718000113964080810546875",
+                                    "tf": "0.2718000113964080810546875"
+                                }
+                            },
+                            {
+                                "w": "2.450",
+                                "specular": {
+                                    "rb": "0.4981000125408172607421875",
+                                    "rf": "0.377499997615814208984375",
+                                    "tb": "0.258899986743927001953125",
+                                    "tf": "0.258899986743927001953125"
+                                }
+                            },
+                            {
+                                "w": "2.500",
+                                "specular": {
+                                    "rb": "0.5134999752044677734375",
+                                    "rf": "0.384000003337860107421875",
+                                    "tb": "0.24500000476837158203125",
+                                    "tf": "0.24500000476837158203125"
+                                }
+                            },
+                            {
+                                "w": "4.000",
+                                "specular": {
+                                    "rb": "0.707799971103668212890625",
+                                    "rf": "0.15449999272823333740234375",
+                                    "tb": "0.1439000070095062255859375",
+                                    "tf": "0.1439000070095062255859375"
+                                }
+                            },
+                            {
+                                "w": "4.500",
+                                "specular": {
+                                    "rb": "0.7318999767303466796875",
+                                    "rf": "0.0406999997794628143310546875",
+                                    "tb": "0.0410999990999698638916015625",
+                                    "tf": "0.0410999990999698638916015625"
+                                }
+                            },
+                            {
+                                "w": "5.000",
+                                "specular": {
+                                    "rb": "0.749700009822845458984375",
+                                    "rf": "0.02740000002086162567138671875",
+                                    "tb": "0.0007999999797903001308441162109375",
+                                    "tf": "0.0007999999797903001308441162109375"
+                                }
+                            },
+                            {
+                                "w": "5.500",
+                                "specular": {
+                                    "rb": "0.76380002498626708984375",
+                                    "rf": "0.02370000071823596954345703125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "6.000",
+                                "specular": {
+                                    "rb": "0.774100005626678466796875",
+                                    "rf": "0.01930000074207782745361328125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "6.200",
+                                "specular": {
+                                    "rb": "0.777800023555755615234375",
+                                    "rf": "0.0164999999105930328369140625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "6.400",
+                                "specular": {
+                                    "rb": "0.780700027942657470703125",
+                                    "rf": "0.013700000010430812835693359375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "6.600",
+                                "specular": {
+                                    "rb": "0.78359997272491455078125",
+                                    "rf": "0.010599999688565731048583984375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "6.800",
+                                "specular": {
+                                    "rb": "0.78649997711181640625",
+                                    "rf": "0.00779999978840351104736328125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "7.000",
+                                "specular": {
+                                    "rb": "0.788999974727630615234375",
+                                    "rf": "0.004999999888241291046142578125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "7.200",
+                                "specular": {
+                                    "rb": "0.791400015354156494140625",
+                                    "rf": "0.00289999996311962604522705078125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "7.400",
+                                "specular": {
+                                    "rb": "0.793600022792816162109375",
+                                    "rf": "0.00120000005699694156646728515625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "7.600",
+                                "specular": {
+                                    "rb": "0.79589998722076416015625",
+                                    "rf": "0.0003000000142492353916168212890625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "7.800",
+                                "specular": {
+                                    "rb": "0.797900021076202392578125",
+                                    "rf": "0.000199999994947575032711029052734375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "8.000",
+                                "specular": {
+                                    "rb": "0.79869997501373291015625",
+                                    "rf": "0.00120000005699694156646728515625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "8.200",
+                                "specular": {
+                                    "rb": "0.800700008869171142578125",
+                                    "rf": "0.040600001811981201171875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "8.400",
+                                "specular": {
+                                    "rb": "0.80589997768402099609375",
+                                    "rf": "0.09510000050067901611328125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "8.600",
+                                "specular": {
+                                    "rb": "0.8118000030517578125",
+                                    "rf": "0.1453000009059906005859375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "8.800",
+                                "specular": {
+                                    "rb": "0.816999971866607666015625",
+                                    "rf": "0.18039999902248382568359375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "9.000",
+                                "specular": {
+                                    "rb": "0.821500003337860107421875",
+                                    "rf": "0.21989999711513519287109375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "9.200",
+                                "specular": {
+                                    "rb": "0.825500011444091796875",
+                                    "rf": "0.2497999966144561767578125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "9.400",
+                                "specular": {
+                                    "rb": "0.82819998264312744140625",
+                                    "rf": "0.3012000024318695068359375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "9.600",
+                                "specular": {
+                                    "rb": "0.82819998264312744140625",
+                                    "rf": "0.29100000858306884765625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "9.800",
+                                "specular": {
+                                    "rb": "0.826600015163421630859375",
+                                    "rf": "0.26429998874664306640625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "10.000",
+                                "specular": {
+                                    "rb": "0.8245999813079833984375",
+                                    "rf": "0.2405000030994415283203125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "10.200",
+                                "specular": {
+                                    "rb": "0.82260000705718994140625",
+                                    "rf": "0.223100006580352783203125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "10.400",
+                                "specular": {
+                                    "rb": "0.820900022983551025390625",
+                                    "rf": "0.2071000039577484130859375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "10.600",
+                                "specular": {
+                                    "rb": "0.81889998912811279296875",
+                                    "rf": "0.19249999523162841796875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "10.800",
+                                "specular": {
+                                    "rb": "0.81679999828338623046875",
+                                    "rf": "0.176400005817413330078125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "11.000",
+                                "specular": {
+                                    "rb": "0.814999997615814208984375",
+                                    "rf": "0.15530000627040863037109375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "11.200",
+                                "specular": {
+                                    "rb": "0.813899993896484375",
+                                    "rf": "0.13689999282360076904296875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "11.400",
+                                "specular": {
+                                    "rb": "0.8131999969482421875",
+                                    "rf": "0.11519999802112579345703125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "11.600",
+                                "specular": {
+                                    "rb": "0.812699973583221435546875",
+                                    "rf": "0.100900001823902130126953125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "11.800",
+                                "specular": {
+                                    "rb": "0.81260001659393310546875",
+                                    "rf": "0.084100000560283660888671875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "12.000",
+                                "specular": {
+                                    "rb": "0.813000023365020751953125",
+                                    "rf": "0.078000001609325408935546875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "12.200",
+                                "specular": {
+                                    "rb": "0.81400001049041748046875",
+                                    "rf": "0.0697000026702880859375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "12.400",
+                                "specular": {
+                                    "rb": "0.81519997119903564453125",
+                                    "rf": "0.064599998295307159423828125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "12.600",
+                                "specular": {
+                                    "rb": "0.81610000133514404296875",
+                                    "rf": "0.06599999964237213134765625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "12.800",
+                                "specular": {
+                                    "rb": "0.816999971866607666015625",
+                                    "rf": "0.070000000298023223876953125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "13.000",
+                                "specular": {
+                                    "rb": "0.8176000118255615234375",
+                                    "rf": "0.07500000298023223876953125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "13.200",
+                                "specular": {
+                                    "rb": "0.818000018596649169921875",
+                                    "rf": "0.07299999892711639404296875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "13.400",
+                                "specular": {
+                                    "rb": "0.81840002536773681640625",
+                                    "rf": "0.070000000298023223876953125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "13.600",
+                                "specular": {
+                                    "rb": "0.8187999725341796875",
+                                    "rf": "0.06759999692440032958984375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "13.800",
+                                "specular": {
+                                    "rb": "0.819199979305267333984375",
+                                    "rf": "0.06689999997615814208984375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "14.000",
+                                "specular": {
+                                    "rb": "0.81980001926422119140625",
+                                    "rf": "0.06599999964237213134765625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "14.500",
+                                "specular": {
+                                    "rb": "0.820900022983551025390625",
+                                    "rf": "0.0579999983310699462890625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "15.000",
+                                "specular": {
+                                    "rb": "0.82190001010894775390625",
+                                    "rf": "0.05990000069141387939453125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "15.500",
+                                "specular": {
+                                    "rb": "0.822700023651123046875",
+                                    "rf": "0.0579999983310699462890625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "16.000",
+                                "specular": {
+                                    "rb": "0.824299991130828857421875",
+                                    "rf": "0.0529999993741512298583984375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "16.500",
+                                "specular": {
+                                    "rb": "0.8259999752044677734375",
+                                    "rf": "0.048500001430511474609375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "17.000",
+                                "specular": {
+                                    "rb": "0.827300012111663818359375",
+                                    "rf": "0.0436999984085559844970703125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "17.500",
+                                "specular": {
+                                    "rb": "0.830099999904632568359375",
+                                    "rf": "0.0399000011384487152099609375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "18.000",
+                                "specular": {
+                                    "rb": "0.831799983978271484375",
+                                    "rf": "0.02999999932944774627685546875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "18.500",
+                                "specular": {
+                                    "rb": "0.8334000110626220703125",
+                                    "rf": "0.039999999105930328369140625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "19.000",
+                                "specular": {
+                                    "rb": "0.834999978542327880859375",
+                                    "rf": "0.0900000035762786865234375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "19.500",
+                                "specular": {
+                                    "rb": "0.837199985980987548828125",
+                                    "rf": "0.1500000059604644775390625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "20.000",
+                                "specular": {
+                                    "rb": "0.83990001678466796875",
+                                    "rf": "0.20000000298023223876953125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "21.000",
+                                "specular": {
+                                    "rb": "0.84490001201629638671875",
+                                    "rf": "0.25",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "22.000",
+                                "specular": {
+                                    "rb": "0.846599996089935302734375",
+                                    "rf": "0.23999999463558197021484375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "23.000",
+                                "specular": {
+                                    "rb": "0.84469997882843017578125",
+                                    "rf": "0.2199999988079071044921875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "24.000",
+                                "specular": {
+                                    "rb": "0.84259998798370361328125",
+                                    "rf": "0.20000000298023223876953125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "25.000",
+                                "specular": {
+                                    "rb": "0.841000020503997802734375",
+                                    "rf": "0.171000003814697265625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "26.000",
+                                "specular": {
+                                    "rb": "0.8396999835968017578125",
+                                    "rf": "0.15940000116825103759765625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "27.000",
+                                "specular": {
+                                    "rb": "0.83910000324249267578125",
+                                    "rf": "0.1500999927520751953125",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "28.000",
+                                "specular": {
+                                    "rb": "0.83609998226165771484375",
+                                    "rf": "0.14159999787807464599609375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "29.000",
+                                "specular": {
+                                    "rb": "0.8375999927520751953125",
+                                    "rf": "0.13500000536441802978515625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "30.000",
+                                "specular": {
+                                    "rb": "0.837400019168853759765625",
+                                    "rf": "0.12999999523162841796875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "35.000",
+                                "specular": {
+                                    "rb": "0.832199990749359130859375",
+                                    "rf": "0.122900001704692840576171875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "40.000",
+                                "specular": {
+                                    "rb": "0.83679997920989990234375",
+                                    "rf": "0.12989999353885650634765625",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "45.000",
+                                "specular": {
+                                    "rb": "0.830399990081787109375",
+                                    "rf": "0.14740000665187835693359375",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            },
+                            {
+                                "w": "50.000",
+                                "specular": {
+                                    "rb": "0.830399990081787109375",
+                                    "rf": "0.15199999511241912841796875",
+                                    "tb": "0",
+                                    "tf": "0"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "number_incidence_angles": 1
+            }
+        }
+    }
+}

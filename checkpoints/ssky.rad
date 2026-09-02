@@ -1,0 +1,25 @@
+# /private/var/folders/bk/vzb5n3s94h9bb4215cr_9rzm0000gn/T/opencode/wsvenv/lib/python3.12/site-packages/pyradiance/bin/genssky 3 21 13.0 -a 40.78 -o 73.96 -m 75 -n 8 -r 64 -c 0.0 -d 0.115 -g 0.2 -p /Users/wtn-mcp/Projects/pyradiance/workshop/scratch/atmos -f ssky 
+#Cloud cover: 0
+#Ground reflectance: 0.2
+#Sky map resolution: 64
+
+void spectrum sunrad
+0
+0
+22 390 770 0.434 0.767 0.800 1.014 1.097 1.099 1.098 1.130 1.138 1.140 1.138 1.116 1.108 1.071 1.066 1.027 0.988 0.959 0.924 0.887 
+
+sunrad light solar
+0
+0
+3 7110820.9 7110820.9 7110820.9
+
+solar source sun
+0
+0
+4 -0.245122 -0.638548 0.729501 0.533
+
+void specpict skyfunc
+5 noop __HSR__ . 'Atan2(Dy,Dx)/PI+1' '1-Acos(Dz)/PI'
+0
+0
+
